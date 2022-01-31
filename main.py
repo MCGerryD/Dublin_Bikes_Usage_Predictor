@@ -6,3 +6,5 @@ response = requests.get("http://metwdb-openaccess.ichec.ie/metno-wdb2ts/location
 print(response.status_code)
 print(response.text)
 
+#Check GitHub
+
